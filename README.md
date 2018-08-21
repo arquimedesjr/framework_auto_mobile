@@ -1,2 +1,2 @@
 # AutoModel
-Projeto Java Mobile Android Integrado com Cucumber e Appium 
+Projeto Automação Java Mobile Android Integrado com Cucumber, Appium Junit 
